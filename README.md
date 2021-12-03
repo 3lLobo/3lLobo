@@ -1,5 +1,18 @@
 # Auuu :wolf:
 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=3lLobo&show_icons=true&theme=dark" alt="3lLobo"/>
+
+<p align="center">
+<!-- <a href="https://blog.kostic.dev"><img src="https://img.shields.io/badge/blog.kostic.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/florian-wolf-b1a350113/"><img src="https://img.shields.io/badge/-F%20Wolf-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:flocwolf@gmail.com"><img src="https://img.shields.io/badge/-flocwolf@gmail.com-D14836?style=flat&logo=Gmail&logoColor=lightblue"/></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=3lLobo.3lLobo"/>   
+
+</p>
+
+ 
+
 <!--
 **3lLobo/3lLobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
