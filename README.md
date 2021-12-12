@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/github/stars/3lLobo?color=black&logoColor=black&style=social" />  
 </p>
 
+#### Welcome to the Wolfhub. I am a ML engineer with passion for intelligant vehicles and affinity for geometric/graph deep learning. My sideproject is coding on the blockchain, ETH and NEAR, with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being __Python__ and __Rust__.  The reason you are reading my stats and elevator pitch is: 
+- *stating the obvious* 🔭 I seek employment
  
 
 <!--
