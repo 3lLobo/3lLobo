@@ -1,6 +1,8 @@
 # 
 
 <p align=center> :wolf: </p>
+
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=3lLobo&show_icons=true&theme=gotham" alt="3lLobo"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3lLobo&layout=compact&langs_count=11&theme=gotham"></img>
 <p align="center">
@@ -11,7 +13,9 @@
 <img src="https://img.shields.io/github/stars/3lLobo?color=black&logoColor=black&style=social" />  
 </p>
 
-#### Welcome to the Wolfhub. I am a ML engineer with passion for intelligant vehicles and affinity for geometric/graph deep learning. My sideproject is coding on the blockchain, [ETH](https://ethereum.org/en/ "Ethereum") and [NEAR](https://www.near.university/ "Near"), with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being [__Python__](https://www.nationalgeographic.com/animals/reptiles/facts/burmese-python ":snake:") and [__Rust__](https://www.rust-lang.org/ "Rusttt").  The reason you are reading my stats and elevator pitch is: 
+#### Welcome to the Wolfhub. 
+
+#### I am a ML engineer with passion for intelligent vehicles and affinity for geometric/graph deep learning. My side-project is coding on the blockchain, [ETH](https://ethereum.org/en/ "Ethereum") and [NEAR](https://www.near.university/ "Near"), with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being [__Python__](https://www.nationalgeographic.com/animals/reptiles/facts/burmese-python ":snake:") and [__Rust__](https://www.rust-lang.org/ "Rusttt").  The reason you are reading my stats and elevator pitch is: 
 - *stating the obvious* 🔭 I seek employment
  
 
