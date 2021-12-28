@@ -3,9 +3,18 @@
 <p align=center> :wolf: </p>
 
 
+## Here my Github Stats:
+<details>
+<summary> :zap:</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=3lLobo&show_icons=true&theme=gotham" alt="3lLobo"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3lLobo&layout=compact&langs_count=11&theme=gotham"></img>
 <p align="center">
+</details>
+
+<br />
+
+## Connect with me:
+
 <!-- <a href="https://blog.kostic.dev"><img src="https://img.shields.io/badge/blog.kostic.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/florian-wolf-b1a350113/"><img src="https://img.shields.io/badge/-F%20Wolf-0077B5?style=flat&logo=Linkedin&logoColor=black"/></a>
 <a href="mailto:flocwolf@gmail.com"><img src="https://img.shields.io/badge/-flocwolf@gmail.com-D14836?style=flat&logo=Gmail&logoColor=black"/></a>
@@ -13,7 +22,9 @@
 <img src="https://img.shields.io/github/stars/3lLobo?color=black&logoColor=black&style=social" />  
 </p>
 
-#### Welcome to the Wolfhub. 
+<br />
+
+## Welcome to the Wolfhub. 
 
 #### I am a ML engineer with passion for intelligent vehicles and affinity for geometric/graph deep learning. My side-project is coding on the blockchain, [ETH](https://ethereum.org/en/ "Ethereum") and [NEAR](https://www.near.university/ "Near"), with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being [__Python__](https://www.nationalgeographic.com/animals/reptiles/facts/burmese-python ":snake:") and [__Rust__](https://www.rust-lang.org/ "Rusttt").  The reason you are reading my stats and elevator pitch is: 
 - *stating the obvious* 🔭 I seek employment
