@@ -1,9 +1,10 @@
-# 
+
+## Welcome to the Wolfhub
 
 <p align=center> :wolf: </p>
 
 
-## Here my Github Stats:
+## Here Wolf's Github Stats:
 <details>
 <summary> :zap:</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=3lLobo&show_icons=true&theme=gotham" alt="3lLobo"/>
@@ -13,7 +14,7 @@
 
 <br />
 
-## Connect with me:
+## Connect with Wolf:
 
 <!-- <a href="https://blog.kostic.dev"><img src="https://img.shields.io/badge/blog.kostic.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/florian-wolf-b1a350113/"><img src="https://img.shields.io/badge/-F%20Wolf-0077B5?style=flat&logo=Linkedin&logoColor=black"/></a>
@@ -24,7 +25,8 @@
 
 <br />
 
-## Welcome to the Wolfhub. 
+ 
+## :rocket: About Wolf:
 
 #### I am a ML engineer with passion for intelligent vehicles and affinity for geometric/graph deep learning. My side-project is coding on the blockchain, [ETH](https://ethereum.org/en/ "Ethereum") and [NEAR](https://www.near.university/ "Near"), with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being [__Python__](https://www.nationalgeographic.com/animals/reptiles/facts/burmese-python ":snake:") and [__Rust__](https://www.rust-lang.org/ "Rusttt").  The reason you are reading my stats and elevator pitch is: 
 - *stating the obvious* 🔭 I seek employment
