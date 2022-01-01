@@ -1,7 +1,7 @@
 
 ## Welcome to the Wolfhub
 
-<h0 align=center> :wolf: </h0>
+<h1 align=center> :wolf: </h1>
 
 
 ## Here Wolf's Github Stats:
