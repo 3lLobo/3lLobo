@@ -1,5 +1,5 @@
 
-## Welcome to the Wolfhub
+# Welcome to the Wolfhub
 
 <h1 align=center> :wolf: </h1>
 
