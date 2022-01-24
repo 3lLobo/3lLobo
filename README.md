@@ -1,5 +1,5 @@
 
-# Welcome to the Wolfhub
+<h1 align=center> Welcome to the Wolfhub </h1>
 
 <h1 align=center> :wolf: </h1>
 
@@ -28,7 +28,7 @@
  
 ## :rocket: About Wolf:
 
-#### Wolf is my surname. I am a ML engineer with passion for intelligent vehicles and affinity for geometric/graph deep learning. My side-project is coding on the blockchain, [ETH](https://ethereum.org/en/ "Ethereum") and [NEAR](https://www.near.university/ "Near"), with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being [__Python__](https://github.com/3lLobo/ "Shakalaka") and [__Rust__](https://www.rust-lang.org/ "Rusttt").  The reason you are reading my stats and elevator pitch is: 
+#### Wolf is my surname and [planetary](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/as17-148-22727_lrg_0.jpg "Plant in French -> Planet") is my favorite word. I am a ML engineer with passion for intelligent vehicles, robots and affinity for geometric/graph deep learning. My side-project is coding on the blockchain, [ETH](https://ethereum.org/en/ "Ethereum") and [NEAR](https://www.near.university/ "Near"), with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being [__Python__](https://github.com/3lLobo/ "Shakalaka") and [__Rust__](https://www.rust-lang.org/ "JustRust").  The reason you are reading my stats and elevator pitch is: 
 - *stating the obvious* 🔭 I seek employment
  
 
