@@ -1,5 +1,5 @@
 
-## Welcome to the Wolfhub
+<h1 align=center> Welcome to the Wolfhub </h1>
 
 <h1 align=center> :wolf: </h1>
 
@@ -30,11 +30,15 @@
  
 ## :rocket: About Wolf:
 
-#### I am a ML engineer with passion for intelligent vehicles and affinity for geometric/graph deep learning. My side-project is coding on the blockchain, [ETH](https://ethereum.org/en/ "Ethereum") and [NEAR](https://www.near.university/ "Near"), with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being [__Python__](https://www.nationalgeographic.com/animals/reptiles/facts/burmese-python ":snake:") and [__Rust__](https://www.rust-lang.org/ "Rusttt"). 
- 
+
+Involved Hackathons:
+ - [NEARBuild](https://metabuild.devpost.com/)
+
+#### Wolf is my surname and [planetary](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/as17-148-22727_lrg_0.jpg "Plant in French -> Planet") is my favorite word. I am a ML engineer with passion for intelligent vehicles, robots and affinity for geometric/graph deep learning. My side-project is coding on the blockchain, [ETH](https://ethereum.org/en/ "Ethereum") and [NEAR](https://www.near.university/ "Near"), with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being [__Python__](https://github.com/3lLobo/ "Shakalaka") and [__Rust__](https://www.rust-lang.org/ "JustRust"). 
+
 ### My full Tech Stack :
 
-<p>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40"/>&nbsp;
@@ -48,17 +52,18 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40"/>&nbsp;/>
  -->
 
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>&nbsp;
 
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>&nbsp;
 
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>&nbsp;
@@ -68,7 +73,7 @@
 <!--
 **3lLobo/3lLobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
