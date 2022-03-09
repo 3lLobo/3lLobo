@@ -5,14 +5,16 @@
 
 
 ## Here Wolf's Github Stats:
-<details>
-<summary> :zap:</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=3lLobo&show_icons=true&theme=gotham" alt="3lLobo"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3lLobo&layout=compact&langs_count=11&theme=gotham"></img>
-<p align="center">
-</details>
 
-<br />
+<summary> :zap:</summary>
+<!-- themes: react, material-palenight, great-gatsby, tokyonight_duo -->
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=3lLobo&show_icons=true&theme=react" alt="3lLobo" height="161" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3lLobo&layout=compact&langs_count=11&theme=react"  height="161"/>&nbsp;
+<img src="http://github-readme-streak-stats.herokuapp.com?user=3lLobo&theme=react&background=000000" height="161"/>&nbsp;
+<p align="center">
+
+
 
 ## Connect with Wolf:
 
@@ -28,9 +30,40 @@
  
 ## :rocket: About Wolf:
 
-#### I am a ML engineer with passion for intelligent vehicles and affinity for geometric/graph deep learning. My side-project is coding on the blockchain, [ETH](https://ethereum.org/en/ "Ethereum") and [NEAR](https://www.near.university/ "Near"), with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being [__Python__](https://www.nationalgeographic.com/animals/reptiles/facts/burmese-python ":snake:") and [__Rust__](https://www.rust-lang.org/ "Rusttt").  The reason you are reading my stats and elevator pitch is: 
-- *stating the obvious* 🔭 I seek employment
+#### I am a ML engineer with passion for intelligent vehicles and affinity for geometric/graph deep learning. My side-project is coding on the blockchain, [ETH](https://ethereum.org/en/ "Ethereum") and [NEAR](https://www.near.university/ "Near"), with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being [__Python__](https://www.nationalgeographic.com/animals/reptiles/facts/burmese-python ":snake:") and [__Rust__](https://www.rust-lang.org/ "Rusttt"). 
  
+### My full Tech Stack :
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>&nbsp;
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40"/>&nbsp;/>
+ -->
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>&nbsp;
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>&nbsp;
+
 
 <!--
 **3lLobo/3lLobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
