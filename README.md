@@ -34,10 +34,11 @@
 Involved Hackathons:
  - [NEARBuild](https://metabuild.devpost.com/) ✅:trophy:
  - [Encode NEAR hacc.](https://www.encode.club/near-hackathon) ✅
+ - [Supabase Hackathon: Bring the Func(🕺)](https://supabase.com/blog/2022/04/01/hackathon-bring-the-func)
 
 #### Wolf is my surname and [planetary](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/as17-148-22727_lrg_0.jpg "Plant in French -> Planet") is my favorite word. I am a ML engineer with passion for intelligent vehicles, robots and affinity for geometric/graph deep learning. My side-project is coding on the blockchain, [ETH](https://ethereum.org/en/ "Ethereum") and [NEAR](https://www.near.university/ "Near"), with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being [__Python__](https://github.com/3lLobo/ "Shakalaka") and [__Rust__](https://www.rust-lang.org/ "JustRust"). 
 
-### My full Tech Stack :
+### My Tech Stack :
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
