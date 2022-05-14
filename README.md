@@ -13,9 +13,9 @@
 <!-- <summary> :zap:</summary> -->
 <!-- themes: react, material-palenight, great-gatsby, tokyonight_duo -->
 <div align="center" display="flex">
- <img src="https://github-readme-stats.vercel.app/api?username=3lLobo&show_icons=true&theme=react" alt="3lLobo" height="141" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3lLobo&layout=compact&langs_count=11&theme=react"  height="141"/>&nbsp;
-<img src="http://github-readme-streak-stats.herokuapp.com?user=3lLobo&theme=react&background=000000" height="141"/>&nbsp;
+ <img src="https://github-readme-stats.vercel.app/api?username=3lLobo&show_icons=true&theme=react" alt="3lLobo" height="131" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3lLobo&layout=compact&langs_count=11&theme=react"  height="131"/>&nbsp;
+<img src="http://github-readme-streak-stats.herokuapp.com?user=3lLobo&theme=react&background=000000" height="131"/>&nbsp;
 </div>
 
 
@@ -38,7 +38,7 @@ Involved Hackathons 22:
  - [NEARBuild](https://metabuild.devpost.com/) ✅:trophy:
  - [Encode NEAR hacc.](https://www.encode.club/near-hackathon) ✅
  - [Supabase Hackathon: Bring the Func(🕺)](https://supabase.com/blog/2022/04/01/hackathon-bring-the-func) ✅ 🥇 [winning project](https://www.madewithsupabase.com/bring-the-func) with [TheReshma](https://github.com/TheReshma)
- - [ETHGlobal](https://ethglobal.com/) hackTheMoney again with [TheReshma](https://github.com/TheReshma)
+ - [ETHGlobal](https://ethglobal.com/) [HackTheMoney](https://defi.ethglobal.com/) again with [TheReshma](https://github.com/TheReshma)
 
 #### Wolf is my surname and [planetary](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/as17-148-22727_lrg_0.jpg "Plant in French -> Planet") is my favorite word. I am a ML engineer with passion for intelligent vehicles, robots and affinity for geometric/graph deep learning. My side-project is coding on the blockchain, [ETH](https://ethereum.org/en/ "Ethereum") and [NEAR](https://www.near.university/ "Near"), with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being [__Python__](https://github.com/3lLobo/ "Shakalaka") and [__Rust__](https://www.rust-lang.org/ "JustRust"). 
 
