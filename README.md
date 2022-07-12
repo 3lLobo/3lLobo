@@ -43,7 +43,9 @@ Involved Hackathons 22:
     - [Swing](https://swing.xyz/developers) 🥈best use.
     - [TheGraph](https://thegraph.com/en/) 🥉best use of sub-graph.
  - [CORTX & Filecoin Integration Challenge](https://seagate-cortx-hackathon2022.devpost.com/) ✅
- - [ETHGlobal](https://ethglobal.com/) [HackFS}(https://fs.ethglobal.com/) ✨team with [TheReshma](https://github.com/TheReshma)
+    - [Filecoin](ipns://filecoin.io/)🥈
+ - [ETHGlobal](https://ethglobal.com/) [HackFS}(https://fs.ethglobal.com/) ✨team with [TheReshma](https://github.com/TheReshma) & [Julian](https://github.com/perassijulian)
+
 #### Wolf is my surname and [planetary](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/as17-148-22727_lrg_0.jpg "Plant in French -> Planet") is my favorite word. I am a ML engineer with passion for intelligent vehicles, robots and affinity for geometric/graph deep learning. My side-project is coding on the blockchain, [ETH](https://ethereum.org/en/ "Ethereum") and [NEAR](https://www.near.university/ "Near"), with the goal to explore decentralized machine learning. When I'm not howling to the moon, I speak various languages, my favorite being [__Python__](https://github.com/3lLobo/ "Shakalaka") and [__Rust__](https://www.rust-lang.org/ "JustRust"). 
 
 ### My Tech Stack :
