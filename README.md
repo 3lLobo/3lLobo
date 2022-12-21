@@ -1,7 +1,7 @@
 
 <h1 align=center> Welcome to my Wolfhub </h1>
 
-Hiii I'm Nuka, a cute panda who just went from blocqchain enthusiat 2 blocqchain fanatiq 🐳
+Hiii I'm Lika who just went from blocqchain enthusiat 2 blocqchain fanatiq 🐳
 Did you know the `blockchain developer` means `Klotz-Ketten Entwickler`. Try pronouncing that!!!
 
 ## Loook, I code alottt 👀:
