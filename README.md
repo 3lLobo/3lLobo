@@ -2,9 +2,9 @@
 <h1 align=center> Welcome to my Wolfhub </h1>
 
 Hiii I'm Lika who just went from blocqchain enthusiat 2 blocqchain fanatiq 🐳
-Did you know the `blockchain developer` means `Klotz-Ketten Entwickler`. Try pronouncing that!!!
+Did you know that `blockchain developer` means `Klotz-Ketten Entwickler` in German. Try pronouncing that!!!
 
-## Loook, I code alottt 👀:
+## I code alottt 👀:
 
 <!-- <summary> :zap:</summary> -->
 <!-- themes: react, material-palenight, great-gatsby, tokyonight_duo -->
@@ -15,7 +15,7 @@ Did you know the `blockchain developer` means `Klotz-Ketten Entwickler`. Try pro
 </div>
 
 
-###  Random Logos cuz they look nice :
+### Pretty Logos Section 🌷
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
