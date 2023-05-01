@@ -1,10 +1,10 @@
 
-<h1 align=center> Welcome to my Wolfhub </h1>
+<h1 align=center> Welcome to my-hub </h1>
 
 Hiii I'm Lika who just went from blocqchain enthusiat 2 blocqchain fanatiq 🐳
-Did you know that `blockchain developer` means `Klotz-Ketten Entwickler` in German. Try pronouncing that!!!
+Did you know that `blockchain developer` means `Klotz-Ketten Entwickler` in German? Pronouns this!!!
 
-## I code alottt 👀:
+## My keyboard and I 👀:
 
 <!-- <summary> :zap:</summary> -->
 <!-- themes: react, material-palenight, great-gatsby, tokyonight_duo -->
