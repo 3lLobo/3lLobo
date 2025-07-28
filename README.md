@@ -1,10 +1,9 @@
 
 <h1 align=center> Welcome to my-hub </h1>
 
-Hiii I'm Lika who just went from blocqchain enthusiat 2 blocqchain fanatiq 🐳
-Did you know that `blockchain developer` means `Klotz-Ketten Entwickler` in German? Pronouns this!!!
+Hi I'm Lika `Klotz-Ketten Entwickler` 🐳
 
-## My keyboard and I 👀:
+## My keyboard and I:
 
 <!-- <summary> :zap:</summary> -->
 <!-- themes: react, material-palenight, great-gatsby, tokyonight_duo -->
@@ -15,18 +14,18 @@ Did you know that `blockchain developer` means `Klotz-Ketten Entwickler` in Germ
 </div>
 
 
-### Pretty Logos Section 🌷
+### Pretty Logos Section
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40"/>&nbsp;
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40"/>&nbsp; -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>&nbsp;
 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>&nbsp;
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" height="30"/>&nbsp;
+<!-- <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" height="30"/>&nbsp; -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>&nbsp;
 
